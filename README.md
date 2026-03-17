@@ -1,4 +1,13 @@
-# Quantium Data Analytics Simulation – Forage
+<h1 style="display: flex; align-items: center; gap: 20px; margin: 0;">
+  Quantium Data Analytics Simulation – Forage
+  <img
+    src="https://github.com/ManasiBhosale/Quantium-Data-Analytics/blob/76c910e155b252843e2d75ee6f2f406df1ff1e86/images/dakernet-data-6608.gif"
+    alt="Analysis"
+    width="60"
+    align="absmiddle"
+  />
+</h1>
+
 
 I recently completed the **[Quantium Data Analytics Virtual Experience](https://www.theforage.com/simulations/quantium/data-analytics-rqkb)** on Forage. ☑️
 
